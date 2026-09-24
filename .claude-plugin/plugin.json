@@ -1,0 +1,6 @@
+{
+  "name": "aptmetrics-skills",
+  "version": "1.0.0",
+  "description": "Approved APTMetrics Claude Desktop skills, released for general use across the org.",
+  "author": { "name": "APTMetrics" }
+}

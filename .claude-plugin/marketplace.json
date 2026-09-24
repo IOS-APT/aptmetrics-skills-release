@@ -1,0 +1,14 @@
+{
+  "name": "aptmetrics-skills-release",
+  "owner": { "name": "APTMetrics", "email": "itsupport@aptmetrics.com" },
+  "metadata": {
+    "description": "Approved APTMetrics Claude Desktop skills, released for general use."
+  },
+  "plugins": [
+    {
+      "name": "aptmetrics-skills",
+      "source": "./",
+      "description": "Approved APTMetrics skills, released for general use across the org."
+    }
+  ]
+}
